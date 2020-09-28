@@ -40,7 +40,7 @@ Tips for setting up your environment can be found [here](https://classroom.udaci
 ## Editor Settings
 
 We've purposefully kept editor configuration files out of this repo in order to
-keep it as simple and environment agnostic as possible. However, we recommend
+keep it as simple and environment agnostic as possible. However, we recommend 
 using the following settings:
 
 * indent using spaces
